@@ -1,0 +1,111 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: #fe9c5b;
+}
+p{
+    text-align: center;
+    color: #8f8f8f
+}
+.courses{
+    padding-top: 20px;
+}
+
+/* navbar */
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+}
+.navbar-brand {
+	font-family: "Montserrat", sans-serif;
+    font-size: 1.9rem;
+	font-weight: bold;
+}
+.nav-item {
+    font-family: "Ubuntu";
+    padding: 0 20px;
+    font-size: 1.2rem;
+}
+
+/* Headings */
+.header-title {
+    padding-top: 100px;
+    padding-left: 100px;
+	font-weight: 800;
+	line-height: 1.5;
+	font-size: 2.5rem;
+}
+.about-header-title{
+    font-family: "Ubuntu";
+    font-size: 1.4rem;
+    text-align: justify ;
+    color: black;
+    letter-spacing: 2px;
+}
+
+/* Title Section */
+.title-image {
+    width: 150%;
+    margin-left: 100px;
+	/* position: absolute; */
+}
+.register-btn{
+    margin-top: 20px;
+    margin-left: 250px;
+}
+.about-title-image{
+    height: 100%;
+    width: 100%;
+
+}
+/* Features */
+.features{
+    /* margin: auto; */
+}
+.features-images{
+    height: 70px;
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+/* pricing */
+#pricing{
+    margin: 100px 300px 50px 300px;
+}
+.card-img-top{
+    width: 284.7px;
+    height: 150px;
+}
+.card-style{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.card-style:hover{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+/* About section Mentors  */
+.about-mentors-img{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%
+}
+.about-mentors-txt{
+    margin-top: 100px;
+}
+
+/* Footer Section */
+#footer .container-fluid {
+    padding: 3% 0 1%;
+    text-align: center;
+}
+
+.footer-icons {
+    margin: 8px;
+    color: black;
+}
